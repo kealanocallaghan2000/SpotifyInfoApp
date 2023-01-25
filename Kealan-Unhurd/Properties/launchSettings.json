@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Kealan_Unhurd": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7055",
+      "launchBrowser": false
+    }
+  }
+}
