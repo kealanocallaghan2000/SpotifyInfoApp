@@ -1,6 +1,4 @@
-# Kealan-Unhurd
-
-This is Kealan O'Callaghan's project for the Un:Hurd position Tech Assessment.
+# Kealan O'Callaghan .Net Azure Functions Spotify API project
 
 ## Running the project
 
